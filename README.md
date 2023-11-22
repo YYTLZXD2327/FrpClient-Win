@@ -37,8 +37,3 @@
 
 ## 截图
 ![主界面](./FrpClient-Win/res/screenshot.gif)
-
-
-## 贡献者
-* @Cp0204  
-* @sanshuifeibing
